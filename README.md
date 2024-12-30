@@ -1,0 +1,2 @@
+# ZeroDivisionError in Python Function
+This repository demonstrates a common error in Python: the ZeroDivisionError. The `my_function` attempts to divide `a` by `b` without checking if `b` is zero. This leads to a runtime error when `b` is 0.  The solution demonstrates how to avoid this error using exception handling.
